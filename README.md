@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolopedrani
-- 👀 I’m interested in the study of Molecular and Complex Systems, by the use of computational methods and models based on physics theory 
-- 🌱 I’m currently learning Enhanced Sampling Methods exploiting Machine learning techniques 
+- 👀 I’m interested in the application of AI in real world scenarios
+- 🌱 I’m currently learning Computer Vision Algorithms exploiting Machine learning techniques 
 - 💞️ I’m looking to collaborate on improving ML methods and applying them to real world problems
 - 📫 How to reach me: from my personal email address -> nicolo.pedrani@gmail.com
 
